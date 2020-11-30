@@ -1,24 +1,33 @@
-# README
+# おすすめボードゲーム紹介
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## サイト概要
+トランプや人生ゲームのような皆で集まって遊ぶことができるゲームを
 
-Things you may want to cover:
 
-* Ruby version
+### サイトテーマ
+<...>
 
-* System dependencies
+### テーマを選んだ理由
+<...>
 
-* Configuration
+### ターゲットユーザ
+<...>
 
-* Database creation
+### 主な利用シーン
+<...>
 
-* Database initialization
+## 設計書
 
-* How to run the test suite
+### 機能一覧
+<https://docs.google.com/spreadsheets/d/1UgK-6l38k5T81XjcTIn7CHnGRkB_sBXS5xQWAVhWmks/edit#gid=0>
 
-* Services (job queues, cache servers, search engines, etc.)
+## 開発環境
+- OS：Linux(CentOS)
+- 言語：HTML,CSS,JavaScript,Ruby,SQL
+- フレームワーク：Ruby on Rails
+- JSライブラリ：jQuery
+- IDE：Cloud9
 
-* Deployment instructions
-
-* ...
+## 使用素材
+- 外部サービスの画像素材・音声素材を使用した場合は、必ずサービス名とURLを明記してください。
+- 使用しない場合は、使用素材の項目をREADMEから削除してください。
