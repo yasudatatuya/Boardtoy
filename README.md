@@ -48,13 +48,7 @@
 - 飲み会のような場で手軽に遊べるゲームを探している人
 - 麻雀や将棋など、戦略性の高いボードゲームが好きな人
 - 小さいお子さんが居て、正月や夏休みなどに家族で楽しく、お子さんも安心してできるゲームを探している人
-前提としてボードゲームの購入を検討している人
 
-飲み会のような場で手軽に遊べるゲームを探している人
-
-麻雀や将棋など、戦略性の高いボードゲームが好きな人
-
-小さいお子さんが居て、正月や夏休みなどに家族で楽しく、お子さんも安心してできるゲームを探している人
 
 ### 主な利用シーン
 ボードゲームの購入を検討している時、その参考にするため
@@ -63,6 +57,9 @@
 
 ### 機能一覧
 [チャレンジ要素一覧](https://docs.google.com/spreadsheets/d/1xpR9R3DkccfgGQokOrUV4EySeaRvAncPvfYpoQtPQfQ/edit?usp=sharing)
+
+###チャレンジ要素一覧のリンク
+https://docs.google.com/spreadsheets/d/1xpR9R3DkccfgGQokOrUV4EySeaRvAncPvfYpoQtPQfQ/edit?usp=sharing
 
 ###チャレンジ要素一覧のリンク
 https://docs.google.com/spreadsheets/d/1xpR9R3DkccfgGQokOrUV4EySeaRvAncPvfYpoQtPQfQ/edit?usp=sharing
